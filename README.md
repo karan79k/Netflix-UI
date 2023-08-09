@@ -1,5 +1,5 @@
 # Netflix Landing Page Clone
-
+# check out --> https://netflix-clone-wine-kappa.vercel.app/
 Welcome to the official repository of the **Netflix Landing Page Clone**. This project is a faithful reproduction of the iconic Netflix landing page, offering users a glimpse into the design and experience of the popular streaming platform. Whether you're a fan of movies, TV shows, or documentaries, this clone captures the essence of Netflix's user interface.
 
 # preview
